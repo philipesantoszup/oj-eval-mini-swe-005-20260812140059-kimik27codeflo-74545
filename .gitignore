@@ -1,0 +1,4 @@
+conv
+test_direct
+test_edge
+*.o
